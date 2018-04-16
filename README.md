@@ -59,7 +59,7 @@ Example Output:
 
 **My Approach :**
 
-1) Please refer the attached word document(UseCases_AirportBaggage_Routing_System.doc) that I have explained in details for the four use cases to achieve the solution.
+1) Please refer the attached word document(UseCases_AirportBaggage_Routing_System.doc) that I have explained in details for the four use cases to achieve the solution.[UseCases_AirportBaggage_Routing_System.docx](https://github.com/rgalanki11/denver_airport-baggage-routing/files/1914456/UseCases_AirportBaggage_Routing_System.docx)
 
 2) Unzip "airport-baggage-routing-master" file
                 i ) Main Controller of our application : airport-baggage-routing-master\src\main\java\com\barclaycard\interviews\airportbaggagerouting\controller\BaggageRoutingMainController.java
